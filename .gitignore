@@ -3,10 +3,3 @@
 
 # Ignore Gradle build output directory
 build
-
-
-# Eclipse Project Files #
-*.classpath
-*.project
-/.settings
-
